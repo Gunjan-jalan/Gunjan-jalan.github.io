@@ -9,8 +9,8 @@ Mother's Name: Renu Jalan
 Nationality: Indian
 ```
 __Languages known__: 
-[x] English
-[x] Hindi
+> [x] English
+> [x] Hindi
 
 > I am a sophomore at Malaviya National Institute of Technology.
 > I aspire to be good developer.
