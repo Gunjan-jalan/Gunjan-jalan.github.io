@@ -31,4 +31,4 @@ I like to explore and learn about different cultures and languages. So, I know a
 
 __E-mail__: 2023ucp1604@mnit.ac.in
 **Phone**: 98XXXXXXXX
-![LinkedIn] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F23986970-linkedin-logo-png-linkedin-logo-transparent-png-linkedin-icon-transparent-free-png&psig=AOvVaw2oSRpnFLsFWn0CKDweBcoh&ust=1732258110654000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC967zq7IkDFQAAAAAdAAAAABAE) __LinkedIn__: [Gunjan jalan](https://www.linkedin.com/in/gunjan-jalan/)
+![LinkedIn] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw2oSRpnFLsFWn0CKDweBcoh&ust=1732258110654000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC967zq7IkDFQAAAAAdAAAAABAI) __LinkedIn__: [Gunjan jalan](https://www.linkedin.com/in/gunjan-jalan/)
